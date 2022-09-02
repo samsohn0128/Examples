@@ -62,6 +62,7 @@ public class Account {
     }
 
     public void completeSignUp() {
+        System.out.println("account.completeSignUp() is called!!!!!!!!!!!!!");
         this.emailVerified = true;
         this.joinedAt = LocalDateTime.now();
     }
