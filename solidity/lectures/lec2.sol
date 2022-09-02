@@ -18,9 +18,9 @@ contract lec2 {
 
     // int8
     // -2^7 ~ 2^7 - 1
-    int8 public it = 4;
+    int8 public it = 127;
 
     //uint8
     //0 ~ 2^8 - 1
-    uint256 public uit = 132213; 
+    uint256 public uit = 132214; 
 }

@@ -1,7 +1,7 @@
 
 // SPDX-License-Identifier: GPL-3.0
 
-pragma solidity >= 0.7.0 < 0.8.0;
+pragma solidity >= 0.6.0 < 0.8.0;
 
 import "./lec41_1.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/docs-v3.x/contracts/math/SafeMath.sol";
