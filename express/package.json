@@ -1,5 +1,5 @@
 {
-  "name": "static",
+  "name": "test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "4.6",
-    "font-awesome": "^4.7.0",
-    "jdenticon": "^3.2.0",
-    "jquery": "^3.6.0"
+    "express": "^4.18.2"
   }
 }
