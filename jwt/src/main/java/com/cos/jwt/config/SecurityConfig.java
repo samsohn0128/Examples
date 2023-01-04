@@ -29,7 +29,6 @@ public class SecurityConfig {
         http.csrf().disable();
 
         AuthenticationManagerBuilder builder = http.getSharedObject(AuthenticationManagerBuilder.class);
-        AuthenticationManager authenticationManager = http.getSharedObject(AuthenticationManager.class);
         builder.userDetailsService(principalDetailsService);
         AuthenticationManager manager = builder.build();
 

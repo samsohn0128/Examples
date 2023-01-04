@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a3b4642-3576-47e5-9e2a-3a0352ef6ab3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../jwt/cos.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jwt/src/main/java/com/cos/jwt/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../jwt/src/main/java/com/cos/jwt/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/components/Counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/components/InputField.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/components/Movie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/components/MovieForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/components/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/components/Spinner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/components/UserList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/examples/App_addMovie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/examples/App_condition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/examples/App_inputField_React.Fragment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/examples/App_loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/examples/App_movieComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/examples/App_movieDelete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/examples/App_movieFormValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/examples/App_movieForm_changeParentState.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/pages/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/pages/Movies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/pages/User.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/pages/Users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/src/main/java/com/example/redis/controller/RedisController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../redis/src/main/java/com/example/redis/controller/RedisController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../redis/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JqrkzuxXEPQlPhgiEWAkV6INza" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/dongwoosohn/Examples/Examples_git/react/my-app-soaple",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="my-app-start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a3b4642-3576-47e5-9e2a-3a0352ef6ab3" name="Changes" comment="" />
+      <created>1672816602000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672816602000</updated>
+      <workItem from="1672816603550" duration="17000" />
+      <workItem from="1672816690904" duration="887000" />
+      <workItem from="1672817653721" duration="2824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
